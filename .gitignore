@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+*.idea
+
+venv/
+__pycache__/
+
+build/
+!build/.gitkeep
+node_modules/
+!node_modules/.gitkeep
+
+.env
