@@ -2,7 +2,10 @@
 *.pyo
 *.idea
 
-venv/
 __pycache__/
+media/*
+venv/
 
+!media/.gitkeep
 .env
+fixmybrick.data
